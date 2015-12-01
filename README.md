@@ -1,0 +1,1 @@
+# svgo-plugin-addDimmentions
