@@ -5,7 +5,6 @@ exports.description = 'Adds width and height accordiong to viewBox';
 exports.active = true;
 exports.type = 'perItem';
 
-
 /**
  * Remove width/height attributes when a viewBox attribute is present.
  *
@@ -58,6 +57,4 @@ exports.fn = function(svg) {
         prefix: '',
         local: 'height'
     });
-  
-  console.log(svg);
 };
