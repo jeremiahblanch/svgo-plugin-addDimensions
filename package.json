@@ -1,5 +1,5 @@
 {
-  "name": "svgo-plugin-adddimmentions",
+  "name": "svgo-plugin-adddimensions",
   "version": "1.0.0",
   "description": "Plugin for SVGO. It adds width and height to svg according to viewBox attr",
   "main": "addDimensions.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jeremiahblanch/svgo-plugin-addDimmentions.git"
+    "url": "git+https://github.com/jeremiahblanch/svgo-plugin-addDimensions.git"
   },
   "author": "Сергей Щербин",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jeremiahblanch/svgo-plugin-addDimmentions/issues"
+    "url": "https://github.com/jeremiahblanch/svgo-plugin-addDimensions/issues"
   },
-  "homepage": "https://github.com/jeremiahblanch/svgo-plugin-addDimmentions#readme"
+  "homepage": "https://github.com/jeremiahblanch/svgo-plugin-addDimensions#readme"
 }
